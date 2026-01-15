@@ -1,0 +1,5 @@
+prepare:
+  multiplier: 5
+
+train:
+  lr: 0.2
